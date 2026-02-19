@@ -2,47 +2,59 @@
 
 Founder • Product Builder • React Developer  
 
-I build minimal, useful, long-term digital products.  
-Focused on clarity over noise. Systems over hacks.
+I build focused, minimal digital products designed for clarity, structure, and emotional usefulness.
+
+Currently building systems — not chasing trends.
 
 ---
 
-## 🚀 Currently Building
+## 🚀 Active Projects
 
-- IMD Sheets – Lightweight structured data workspace
-- Memory System for Calls – Context retention tool
-- Portfolio Infrastructure Tools
-- EduHub – Focused study environment platform
+### 💗 HeartDrop (Dial4Best)
+An emotional digital product designed to create meaningful, intentional interactions in a noisy digital world.
+
+### 🧩 Portfolio System (Purohit Infotech)
+A structured single-page portfolio infrastructure tool — clean, static, deployable, and ownership-first.
+
+Next in roadmap:
+IMD Sheets – A lightweight structured data workspace.
 
 ---
 
-## 🏢 Brands
+## 🏢 Brand Ecosystem
+
+**Dial4Best**  
+Personal developer identity and experimental product lab.
 
 **Purohit Infotech**  
 Build Better. Simpler. Smarter.  
-Product-focused tech brand building long-term tools.
+Product-focused tech brand creating long-term digital tools.
 
-**Dial4Best**  
-Personal developer identity and technical content brand.
+**HeartDrop**  
+Emotion-first digital product initiative.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Focus
 
-- React (Vite)
-- Tailwind CSS
+- React (Vite architecture)
+- Tailwind CSS v4
 - Firebase
-- Node.js
-- Git / GitHub
-- Netlify
+- Git-based workflows
+- Netlify deployment
+- Structured UI systems
 
 ---
 
-## 🎯 Philosophy
+## 🎯 Builder Philosophy
 
-No overbuilding.  
-No trend chasing.  
-Just clean systems that solve real problems.
+• Build small, build sharp  
+• Ownership over dependency  
+• Long-term systems over temporary hacks  
+
+---
+
+Always building.
 
 ---
 
