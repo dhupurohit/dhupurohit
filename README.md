@@ -14,7 +14,7 @@ Currently building systems — not chasing trends.
 Demonstrating core development concepts through real, simple applications.
 
 Recent Demo:
-[**ASP.NET Web Forms – Personality Decoder App**] (https://github.com/dhupurohit/PersonalityDecoderApp)
+[**ASP.NET Web Forms – Personality Decoder App**](https://github.com/dhupurohit/PersonalityDecoderApp)
 - Server Controls
 - Event Handling
 - Code-behind logic
