@@ -1,4 +1,4 @@
-# Dhruvaa Purohit
+# Dhruvita Purohit
 
 Founder • Product Builder • Developer-Educator  
 
