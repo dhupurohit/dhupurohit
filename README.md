@@ -49,9 +49,6 @@ Where ideas, demos, and learning systems take shape.
 Build Better. Simpler. Smarter.  
 Product-focused brand creating structured developer tools.
 
-**HeartDrop**  
-Emotion-first digital product — meaningful interaction over noise.
-
 ---
 
 ## 🛠 Tech Focus
