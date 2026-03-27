@@ -1,37 +1,56 @@
 # Dhruvaa Purohit
 
-Founder • Product Builder • React Developer  
+Founder • Product Builder • Developer-Educator  
 
-I build focused, minimal digital products designed for clarity, structure, and emotional usefulness.
+I build focused, minimal digital products — and explain them in ways that make concepts simple, structured, and usable.
 
 Currently building systems — not chasing trends.
 
 ---
 
-## 🚀 Active Projects
+## 🚀 Current Focus
 
-### 💗 HeartDrop (Dial4Best)
-An emotional digital product designed to create meaningful, intentional interactions in a noisy digital world.
+### 🎓 Teaching through Building
+Demonstrating core development concepts through real, simple applications.
 
-### 🧩 Portfolio System (Purohit Infotech)
-A structured single-page portfolio infrastructure tool — clean, static, deployable, and ownership-first.
+Recent Demo:
+**ASP.NET Web Forms – Personality Decoder App**
+🔗 https://github.com/dhupurohit/PersonalityDecoderApp
+- Server Controls
+- Event Handling
+- Code-behind logic
+- PostBack mechanism
 
-Next in roadmap:
-IMD Sheets – A lightweight structured data workspace.
+Focused on making technical concepts **clear, visual, and practical**.
+
+---
+
+### 🧠 DoubtLab (Upcoming)
+A structured doubt-solving system for students.
+
+Not just Q&A — but:
+- Organized doubts
+- Clear explanations
+- Practical understanding
+- Minimal, focused interface
+
+Goal:  
+Make learning feel **less confusing and more guided**
 
 ---
 
 ## 🏢 Brand Ecosystem
 
 **Dial4Best**  
-Personal developer identity and experimental product lab.
+Personal identity + experimentation space  
+Where ideas, demos, and learning systems take shape.
 
 **Purohit Infotech**  
 Build Better. Simpler. Smarter.  
-Product-focused tech brand creating long-term digital tools.
+Product-focused brand creating structured developer tools.
 
 **HeartDrop**  
-Emotion-first digital product initiative.
+Emotion-first digital product — meaningful interaction over noise.
 
 ---
 
@@ -39,22 +58,32 @@ Emotion-first digital product initiative.
 
 - React (Vite architecture)
 - Tailwind CSS v4
+- ASP.NET Web Forms (concept demonstrations)
 - Firebase
 - Git-based workflows
 - Netlify deployment
-- Structured UI systems
 
 ---
 
 ## 🎯 Builder Philosophy
 
 • Build small, build sharp  
-• Ownership over dependency  
-• Long-term systems over temporary hacks  
+• Teach through real examples  
+• Systems over scattered tools  
+• Clarity over complexity  
 
 ---
 
-Always building.
+## 📦 What I'm Building
+
+- Minimal developer tools  
+- Structured learning systems  
+- Emotion-driven digital products  
+- Long-term usable platforms  
+
+---
+
+Always building. Always refining.
 
 ---
 
